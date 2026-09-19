@@ -297,7 +297,7 @@ resource "aws_s3_bucket" "app_buckets" {
 
 }
 
-# Combain multiple lifecycle rules
+
 
 
 
